@@ -37,7 +37,6 @@
 ### Formatting Tags for i18n NPM
 To ensure `{}` are not removed during translations, use the format tags: `["{", "}"]`.
 
-https://discord.com/developers/docs/reference#locales
 
 ## 📚 Resources
 - [i18n NPM](https://www.npmjs.com/package/i18n)

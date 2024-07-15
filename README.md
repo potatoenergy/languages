@@ -11,26 +11,30 @@
 **English (en):**
 ```json
 {
-	"ping": {
+	"cmd": {
+		"ping": {
 			"description": "Shows the bot's ping.",
 			"content": "Pinging...",
 			"bot_latency": "Bot Latency",
 			"api_latency": "API Latency",
 			"requested_by": "Requested by {author}"
 		}
+	}
 }
 ```
 
 **Hindi (hi):**
 ```json
 {
-	"ping": {
-            "description": "बॉट का पिंग दिखाता है।",
-            "content": "पिंगिंग...",
-            "bot_latency": "बॉट लेटेंसी",
-            "api_latency": "एपीआई लेटेंसी",
-            "requested_by": "{author} द्वारा अनुरोधित"
-        }
+	"cmd": {
+		"ping": {
+			"description": "बॉट का पिंग दिखाता है।",
+			"content": "पिंगिंग...",
+			"bot_latency": "पिंगिंग...",
+			"api_latency": "एपीआई लेटेंसी",
+			"requested_by": "{author} द्वारा अनुरोधित"
+		}
+	}
 }
 ```
 

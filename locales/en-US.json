@@ -1,0 +1,11 @@
+{
+	"cmd": {
+		"ping": {
+			"description": "Shows the bot's ping.",
+			"content": "Pinging...",
+			"bot_latency": "Bot Latency",
+			"api_latency": "API Latency",
+			"requested_by": "Requested by {author}"
+		}
+	}
+}

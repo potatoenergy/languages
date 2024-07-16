@@ -1,11 +1,11 @@
 {
-    "cmd": {
-        "ping": {
-            "description": "बॉट का पिंग दिखाता है।",
-            "content": "पिंगिंग...",
-            "bot_latency": "बॉट लेटेंसी",
-            "api_latency": "एपीआई लेटेंसी",
-            "requested_by": "{author} द्वारा अनुरोधित"
-        }
-    }
+	"cmd": {
+		"ping": {
+			"description": "बॉट का पिंग दिखाता है।",
+			"content": "पिंगिंग...",
+			"bot_latency": "पिंगिंग...",
+			"api_latency": "एपीआई लेटेंसी",
+			"requested_by": "{author} द्वारा अनुरोधित"
+		}
+	}
 }

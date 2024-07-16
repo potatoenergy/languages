@@ -15,7 +15,7 @@
 			"content": "हेलो! मैं {bot}, एक संगीत बॉट हूं जिसे [Lavamusic](https://github.com/appujet/lavamusic) और Discord के साथ बनाया गया है। आप `{prefix}help <command>` का उपयोग करके किसी आदेश पर अधिक जानकारी प्राप्त कर सकते हैं।",
 			"title": "मदद मेनू",
 			"not_found": "यह `{cmdName}` आदेश मौजूद नहीं है।",
-			"help_cmd": "**विवरण:** {description.content}\n**उपयोग:** {usage}\n**उदाहरण:** {examples}\n**उपनाम:** {aliases}\n**श्रेणी:** {category}\n**कूलडाउन:** {cooldown} सेकंड\n**अनुमतियाँ:** {premUser}\n**बॉट अनुमतियाँ:** {premBot}\n**केवल डेवलपर:** {dev}\n**स्लैश आदेश:** {slash}\n**अर्ग:** {args}\n**प्लेयर:** {player}\n**डीजे:** {dj}\n**डीजे अनुमतियाँ:** {djPerm}\n**आवाज:** {voice}",
+			"help_cmd": "**विवरण:** {description}\n**उपयोग:** {usage}\n**उदाहरण:** {examples}\n**उपनाम:** {aliases}\n**श्रेणी:** {category}\n**कूलडाउन:** {cooldown} सेकंड\n**अनुमतियाँ:** {premUser}\n**बॉट अनुमतियाँ:** {premBot}\n**केवल डेवलपर:** {dev}\n**स्लैश आदेश:** {slash}\n**अर्ग:** {args}\n**प्लेयर:** {player}\n**डीजे:** {dj}\n**डीजे अनुमतियाँ:** {djPerm}\n**आवाज:** {voice}",
 			"footer": "आदेश पर अधिक जानकारी के लिए {prefix}help <command> का उपयोग करें"
 		},
 		"invite": {

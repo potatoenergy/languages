@@ -2,13 +2,13 @@
 
 ## 🌟 How to Add a New Language
 
-1. 📁 Create a new file in the `locales` directory with the name of the language in the format `language_code.json`. For example, `en-US.json` for English, `es-ES.json` for Spanish, etc.
-2. 📋 Copy the contents of the `en-US.json` file into the new file.
+1. 📁 Create a new file in the `locales` directory with the name of the language in the format `language_code.json`. For example, `EnglishUS.json` for English, `SpanishES.json` for Spanish, etc.
+2. 📋 Copy the contents of the `EnglishUS.json` file into the new file.
 3. 🌐 Translate the strings in the new file to the desired language.
 
 ### Example Translation JSON
 
-**English (en):**
+**EnglishUS:**
 ```json
 {
 	"cmd": {
@@ -23,7 +23,7 @@
 }
 ```
 
-**Hindi (hi):**
+**Hindi:**
 ```json
 {
 	"cmd": {
